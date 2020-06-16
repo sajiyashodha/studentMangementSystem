@@ -1,0 +1,17 @@
+.inputCells {
+    /* padding-left: 50px; */
+    /* background-color: #F0F2F5; */
+    padding: 10px;
+  }
+  
+  .inputCellsOne {
+    /* padding-left: 50px; */
+    /* background-color: #F0F2F5; */
+    padding: 25px;
+  }
+
+  .subTopic {
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(59, 59, 59);
+  }

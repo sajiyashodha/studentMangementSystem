@@ -1,0 +1,78 @@
+.topnav {
+    overflow: hidden;
+    background-color: #ffff;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 13px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ffff;
+  }
+  
+  .topnav a.active {
+    color: #2196F3;
+  }
+  
+  .topnav .search-container {
+    float: right;
+  }
+  
+  .topnav input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 13px;
+  }
+  
+  .topnav .search-container button {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: rgb(97, 4, 4);
+    font-size: 13px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .topnav .search-container button:hover {
+    background: rgb(175, 175, 174);
+  }
+
+  .subTopic {
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(59, 59, 59);
+  }
+
+  .myCollapsePanel {
+    padding: 0px !important;
+
+  }
+  
+  .inputCell {
+    /* padding-left: 50px; */
+    /* background-color: #F0F2F5; */
+    padding: 12px;
+    text-align: left;
+  }
+
+  .inputCells {
+    /* padding-left: 50px; */
+    /* background-color: #F0F2F5; */
+    padding: 10px;
+  }
+  
+  .inputCellsOne {
+    /* padding-left: 50px; */
+    /* background-color: #F0F2F5; */
+    padding: 25px;
+  }
+  
